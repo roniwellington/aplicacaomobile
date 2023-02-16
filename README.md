@@ -13,10 +13,14 @@ Expo: Tecnologia para simplificar o ambiente de desenvolvimento
 
 Componentes React Native: Componentes já existentes básicos da tecnologia para compor a tela
     Compor a tela
-      Text<br>
+      Text
+      
       View
+      
       ScrollView
+      
       Image
+      
       TouchableOpacity
       Componentes customizados
       Suporte customizados
